@@ -1,4 +1,4 @@
-The task consisted in the following:
+The task starts from a database where each row is a cell, each column is a time point and each value is the fluorescence measurement. Cconsisted in the following:
 
 Load time lapse fluorescence data from Matlab file "task1.mat" that is in the main course folder. Data are stored in two matrices: x_norm contains trajectories and t is a time vector
 
